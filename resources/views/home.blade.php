@@ -105,6 +105,28 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
+                        <div class="card">
+                            <div class="card-header p-3 pt-2">
+                                <div
+                                    class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
+                                    <i class="fas fa-align-left"></i>
+                                </div>
+                                <div class="text-end pt-1">
+                                    <p class="text-sm mb-0 text-capitalize">Order Management</p>
+                                    <h4 class="mb-0">{{$category_count}}</h4>
+                                </div>
+                            </div>
+                            <hr class="dark horizontal my-0">
+                            <div class="card-footer p-3">
+                                <p class="mb-0">
+                                    <span class="text-danger text-sm font-weight-bolder">-2%</span> than yesterday
+                                    <span class="move-on-hover" style="float: right"><a
+                                            href="{{route('order.index')}}">View more</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 

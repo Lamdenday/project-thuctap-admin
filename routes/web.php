@@ -26,4 +26,5 @@ Route::group(['middleware' => ['auth']], function () {
     include("CategoryRoute.php");
     include("RoleRoute.php");
     include("ProductRoute.php");
+    include("Order.php");
 });
