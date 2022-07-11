@@ -12,9 +12,6 @@
                 CardName
             </th>
             <th class="text-uppercase text-secondary text-xs font-weight-bolder opacity-7 ps-2">
-                CardNumber
-            </th>
-            <th class="text-uppercase text-secondary text-xs font-weight-bolder opacity-7 ps-2">
                 Total
             </th>
             <th class="text-uppercase text-secondary text-xs font-weight-bolder opacity-7 ps-2">
